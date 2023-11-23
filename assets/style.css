@@ -7,10 +7,10 @@
     outline: none;    
 }
 :root{
-    --color-primary: #6b69d6;
-    --color-bg: #1b1b42;
-    --color-bg2: #4f4d9e;
-    --color-bg3: #4e4d9e50;
+    --color-primary: #f39e00;
+    --color-bg: #0065b8;
+    --color-bg2: #09090a;
+    --color-bg3: #081f3873;
     --color-white: #ffffff;
     --color-light: #f5f5f5;
 
@@ -390,7 +390,7 @@ header{
     width: 60% !important;   
 }
 .progess:nth-child(5) .inner-row{
-    width: 50% !important;   
+    width: 95% !important;   
 }
 /* .......................End Skills Section......................... */
 
