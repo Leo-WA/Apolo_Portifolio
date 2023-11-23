@@ -70,7 +70,7 @@ window.addEventListener('scroll',()=>{
 
 // Typed JS.............
 let typed = new Typed('.typed-text',{
-    strings: ['especialista em Autocad', 'E Revit'],
+    strings: ['especialista em Autocad', 'e Revit'],
     typeSpeed: 100,
     backSpeed: 50,
     backDelay: 1000,
