@@ -381,7 +381,7 @@ header{
     height: 100%;
 }
 .progess:nth-child(2) .inner-row{
-    width: 70% !important;   
+    width: 90% !important;   
 }
 .progess:nth-child(3) .inner-row{
     width: 80% !important;   
